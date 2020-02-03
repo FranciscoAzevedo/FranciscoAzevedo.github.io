@@ -1,8 +1,7 @@
 # Site settings
-title:          Francisco Azevedo
+title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        ""
-url:            "https://franciscoazevedo.github.io/"
+url:            "https://chesterhow.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Francisco Azevedo
-  url:          
+  url:          https://chester.how
   email:        francisco.n.azevedo@gmail.com
 
 # Build settings
