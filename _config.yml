@@ -1,6 +1,6 @@
 # Site settings
 title:          Francisco Azevedo
-description:    "My website"
+description:    "Personal Website"
 url:            "https://franciscoazevedo.github.io"
 
 # Google Analytics
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Francisco Azevedo
-  url:          https://chester.how
+  url:          https://franciscoazevedo.github.io/tale/
   email:        francisco.n.azevedo@gmail.com
 
 # Build settings
