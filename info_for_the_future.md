@@ -1,9 +1,11 @@
-# Red text with filename: '_config.yml'
+# Red text with filename
+'_config.yml'
 
 # Hyperlink in text to another website
 [Laseeb](https://www.laseeb.org/)
 
 # Hyperlink in text to another post in the same website
+[Example Content]({{ site.baseurl }}/2017-03-16/example-content)
 
 # Text formatting
 {% highlight markdown %}
