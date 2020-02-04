@@ -1,21 +1,120 @@
-## Red text with filename: '_config.yml'
+# Red text with filename: '_config.yml'
 
-## Code highlight for ruby languae
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-## Hyperlink in text to another website
+# Hyperlink in text to another website
 [Laseeb](https://www.laseeb.org/)
 
-## Hyperlink in text to another post in the same website
+# Hyperlink in text to another post in the same website
 
-## Italic and bold
-_italic_
-*bold*
+# Text formatting
+{% highlight markdown %}
+- **Bold**
+- _Italics_
+- ~~Strikethrough~~
+- <ins>Underline</ins>
+- <sup>Superscript</sup>
+- <sub>Subscript</sub>
+- Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
+- Citation: <cite>&mdash; Chester How</cite>
+{% endhighlight %}
+
+- **Bold**
+- _Italics_
+- ~~Strikethrough~~
+- <ins>Underline</ins>
+- <sup>Superscript</sup>
+- <sub>Subscript</sub>
+- Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
+- Citation: <cite>&mdash; Chester How</cite>
+
+# Lists
+{% highlight markdown %}
+1. Ordered list item 1
+2. Ordered list item 2
+3. Ordered list item 3
+
+* Unordered list item 1
+* Unordered list item 2
+* Unordered list item 3
+{% endhighlight %}
+
+1. Ordered list item 1
+2. Ordered list item 2
+3. Ordered list item 3
+
+* Unordered list item 1
+* Unordered list item 2
+* Unordered list item 3
+
+# Links
+{% highlight markdown %}
+Check out tale on [GitHub](https://github.com/chesterhow/tale).
+{% endhighlight %}
+
+Check out tale on [GitHub](https://github.com/chesterhow/tale).
+
+# Images
+{% highlight markdown %}
+![Placeholder image](https://placehold.it/800x400 "Placeholder image")
+
+![Image with caption](https://placehold.it/700x400 "Image with caption")
+_This is an image with a caption_
+{% endhighlight %}
+
+![Placeholder image](https://placehold.it/800x400 "Placeholder image")
+
+![Image with caption](https://placehold.it/700x400 "Image with caption")
+_This is an image with a caption_
+
+# Code and Syntax Highlighting
+Use back-ticks for `inline code`. Multi-line code snippets are supported too through Pygments.
+
+{% highlight js %}
+// Sample javascript code
+var s = "JavaScript syntax highlighting";
+alert(s);
+{% endhighlight %}
+
+{% highlight python %}
+# Sample python code
+s = "Python syntax highlighting"
+print s
+{% endhighlight %}
+
+Adding `linenos` to the Pygments tag enables line numbers.
+
+{% highlight js  linenos %}
+// Sample javascript code
+var s = "JavaScript syntax highlighting";
+alert(s);
+{% endhighlight %}
+
+# Blockquotes
+{% highlight markdown %}
+> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+{% endhighlight %}
+
+> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+# Horizontal Rule & Line Break
+{% highlight markdown %}
+Use `<hr>` for horizontal rules
+
+<hr>
+
+and `<br>` for line breaks.
+
+<br>
+{% endhighlight %}
+
+Use `<hr>` for horizontal rules
+
+<hr>
+
+and `<br>` for line breaks.
+
+<br>
+
+_The end_
+
 
