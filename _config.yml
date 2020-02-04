@@ -1,6 +1,7 @@
 # Site settings
 title:          Francisco Azevedo
 description:    " "
+baseurl: ""
 url:            "https://franciscoazevedo.github.io"
 
 # Google Analytics
