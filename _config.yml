@@ -13,7 +13,6 @@ author:
   email:        francisco.n.azevedo@gmail.com
 
 # Build settings
-baseurl: /tale
 markdown:       kramdown
 include:
   - _pages
