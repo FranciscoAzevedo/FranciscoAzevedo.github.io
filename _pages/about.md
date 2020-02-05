@@ -5,7 +5,7 @@ author: "Franciso Moreira de Azevedo"
 permalink: /about/
 ---
 
-![Me]({{ site.baseurl }}/assets/img/FotoMinha2.png)
+![Me]({{ site.baseurl }}/assets/img/projeto.png)
 <br>
 
 This site is a deposit of both my personal experiences and thoughts as well as a research profile, although being easily browsed in seperate. Personal posts may concern travel experiences, thoughts, book reviews etc. Post regarding research may consist of tutorials, data visualization, comments on papers, talks, conferences etc.
