@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: "research"
 author: "Franciso Moreira de Azevedo"
 permalink: /research/
