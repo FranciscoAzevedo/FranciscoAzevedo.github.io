@@ -10,11 +10,15 @@ layout: default
     {% else %}
         {{ site.author.name }}
     {% endif %}
-
+    
     {% if page.date %}
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
+    <br>
+    
+    <span> Category: </span> 
+    <span> page.categories </span> 
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
