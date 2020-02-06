@@ -25,7 +25,7 @@ What will be of me after my death, just one more tombstone of thoughts?
 
 "Here lies your frustrations and limitations of your dreams, the end of the honest suffering" 
 
-![wittgenstein]({{ site.baseurl }}/assets/img/wittgenstein.png)
+<img src="{{ site.baseurl }}/assets/img/wittgenstein.jpg" alt="wittgenstein" width="500" height="350" />
 _Stone in Dublin's botanical garden engraved with Wittgenstein's name with my 46 size regretful footprint._
 
 <br>
@@ -51,7 +51,7 @@ Junya Oikama sounds of playing chess, background noise and waves initiate me to 
 Listening to these sounds of toys while looking at the Bauhus interior design made me think on how I wish to have higher counter tops at my house. "What about the kids?" - I thought. Wouldn't my hypothetical future kids have problems washing their teeth, for example? I would just put a stool to help them climb, I figured. But the they'll grow up and there would be a certain age where they don't have enough height to reach the sink but with the stool's help they'd be touching the mirrors and making a mess out of everything. And I thought about that tradition where a kid's height is measured against a wall and their measurements registered throughout several years. I got lost on my own childhood for a moment, why didn't I have that tradition, what were my parents doing? **Until I snapped** . Looking again at the exhibition's toys I just realized how these two places, sound in temporal and the toys in space, have projected me into this train of thoughts of my life. I didn't want to remove my headset, I want to keep having these thoughts, to be lost in my childhood with my eyes closed, to confront the memories and how I've grown and what has changed. I even felt I wanted to cry a bit, even though the place was full of people.
 
 
-<img src="{{ site.baseurl }}/assets/img/bauhaus.jpg" alt="bauhaus" width="250" height="200" />
+<img src="{{ site.baseurl }}/assets/img/bauhaus.jpg" alt="bauhaus" width="500" height="250" />
 _Examples of Bauhaus interior design products (these are from the Berlinische Galerie in Berlin)_
 
 Suddenly, I am asking myself questions: do I want to go back to my childhood, if so, why? Or do I just want to avoid adulthood? This little place has exposed an unconscious feeling that had been brewing for months, maybe even years, inside me. As subjective as it may be, that moment was what art is meant to be for me. 
