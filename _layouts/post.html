@@ -22,12 +22,12 @@ layout: default
     
   {% if page.category %}
     <br>
-    <span> Category: </span> {{ page.category }}
+    <span> Category: </span> <b>{{ page.category }}</b>
   {% endif %}
     
   </div>
 
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h2 class="post-title">{{ page.title }}</h2>
   <div class="post-line"></div>
 
   {{ content }}
