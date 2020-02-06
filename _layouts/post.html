@@ -15,13 +15,13 @@ layout: default
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
-
-    {% if page.category %}
-      <br>
-      <span> Category: </span> {{ page.category }} 
-    {% endif %}
     
   </div>
+  
+  {% if page.category %}
+    <br>
+    <h4>  <span> Category: </span> {{ page.category }} </h4>
+  {% endif %}
 
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
