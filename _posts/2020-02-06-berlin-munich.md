@@ -16,8 +16,8 @@ _Bergama Stereo (Left) and Pergamon altar (Right) in Berlin_
 
 While exploring the space in three dimensions, one can note how, in the back of the altar, the sounds follow a slower rhythm, being composed of less sources (speakers) and therefore being less complex. As one approaches the center, multiple sources appear only to seamlessly disappear after one false step to the side or upwards the stairs. Acute and grave sounds combine at different rhythms yielding one melody that projects the subject into their own imagination of what an hypothetical mythical war could be. It was curious how approaching the Bergama Stereo from different paths yielded different sound experiences: starting far away and facing the altar while walking towards it resulted in a beat slowly growing in rhythm and intensity, with a rewarding climax in the stairs; while approaching from the sides startled the listener due to the sharp contrast in melodies. 
 
+<br>
 ---
-
 <br>
 
 Victorian greenhouse, with it's windows fogged on the inside, fumes with an unbearable heat. I must be sitting in the only place without a drop of water. This warmth and comfort contrasts with the coldness and anonymity I have been feeling in Berlin. I would hardly live here, everything seems so dark but not inhuman, just ... missing, absent. Why am I here, in this botanical garden in Berlin, in life, in this space-time. Will I also be engraved in a stone of this garden, just as Wittgenstein was in the botanical garden in Dublin?
@@ -25,10 +25,8 @@ What will be of me after my death, just one more tombstone of thoughts?
 
 "Here lies your frustrations and limitations of your dreams, the end of the honest suffering" 
 
-<img src="{{ site.baseurl }}/assets/img/wittgenstein.jpg" alt="wittgenstein" width="500" height="350" />
+<img src="{{ site.baseurl }}/assets/img/wittgenstein.png" alt="wittgenstein" width="500" height="350" />
 _Stone in Dublin's botanical garden engraved with Wittgenstein's name with my 46 size regretful footprint._
-
-<br>
 
 I am in the middle of nowhere, at the center of everything. This is my prison, Piranesi's prison of thought, where the outside and inside, external and internal, public and private are blurred. In Piranesi's "Imaginary prisons", strange human figures are much more statues than alive, spikes in the ground await for the next victims and stairs lead to the road of desperation blocked by imaginary Escherian perspectives. Everything's dark, but somehow there's no need of light - darkness in the first plane transpose to the light in the back, does this light mean hope or is it merely an artistic tool?
 Nothing seems to end, but neither do they seem to have a begining. The circular perpetual motions of the prisons suggest that we are trapped, as humans; but to what exactly? To our own human condition? To the excess and abuse of power?
@@ -42,9 +40,7 @@ With a quick google search I realized just how powerful and vast was Piranesi's 
 >"His great ability [...] is to show us glimpses and allow our minds to imagine the fathomless depths. In this sense, he is the father of swathes of culture that have followed: the optical illusions of Escher, the teeming opium-induced hallucinations of De Quincey, the loathsome non-Euclidean geometry of Lovecraft" [source](https://www.architectural-review.com/essays/reputations/giovanni-battista-piranesi-1720-1778/10031530.article) 
 
 <br>
-
 ---
-
 <br>
 
 Junya Oikama sounds of playing chess, background noise and waves initiate me to the _Old Modern Bauhus_ exhibition at the Pinakothek der Moderne. I wish I could stay here all day, lost in this sound, immersed into our thoughts, now connected.
@@ -56,6 +52,8 @@ _Examples of Bauhaus interior design products (these are from the Berlinische Ga
 
 Suddenly, I am asking myself questions: do I want to go back to my childhood, if so, why? Or do I just want to avoid adulthood? This little place has exposed an unconscious feeling that had been brewing for months, maybe even years, inside me. As subjective as it may be, that moment was what art is meant to be for me. 
 
+
+<br>
 ---
 <br>
 
