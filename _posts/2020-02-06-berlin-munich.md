@@ -22,6 +22,7 @@ What will be of me after my death, just one more tombstone of thoughts?
 "Here lies your frustrations and limitations of your dreams, the end of the honest suffering" 
 
 ![wittgenstein]({{ site.baseurl }}/assets/img/wittgenstein.png)
+_Stone in Dublin's botanical garden engraved with Wittgenstein's name with my 46 size regretful footprint._
 
 <br>
 
@@ -30,6 +31,7 @@ Nothing seems to end, but neither do they seem to have a beggining. The circular
 What baffled me the most was the similarities between Piranesi's prisons and the optical illusions in Escherian drawings, especially since the italian artist lived 150 prior to Escher.
 
 ![piranesi_escher]({{ site.baseurl }}/assets/img/piranesi_escher.png)
+_Comparison between Piranesi's 'Imaginary Prisons' (left and center) and Escher's 'Relativity' (right)._
 
 With a quick google search I realized just how powerfull and vast was Piranesi's work <br>
 
@@ -38,9 +40,18 @@ With a quick google search I realized just how powerfull and vast was Piranesi's
 Junya Oikama sounds of playing chess, background noise and waves initiate me to the _Old Modern Bauhus_ exhibition at the Pinakothek der Moderne. I wish I could stay here all day, lost in this sound, immersed into our thoughts, now connected.
 Listening to these sounds of toys while looking at the Bauhus interior design made me think on how I wish to have higher countertops at my house. "What about the kids?" - I thought. Wouldn't my hypothetical future kids have problems washing their teeth, for example? I would just put a stool to help them climb, I figured. But the they'll grow up and there would be a certain age where they don't have enough height to reach the sink but with the stool's help they'd be touching the mirrors and making a mess out of everything. And I thought about that tradition where a kid's height is measured against a wall and their measurements registered throughout several years. I got lost on my own childhood for a moment, why didn't I have that tradition, what were my parents doing? **Until I snapped** . Looking again at the exhibition's toys I just realized how these two places, sound in temporal and the toys in space, have projected me into this train of thoughts of my life. I didn't want to remove my headset, I want to keep having these thoughts, to be lost in my childhood with my eyes closed, to confront the memories and how I've grown and what has changed. I even felt I wanted to cry a bit, even though the place was full of people.
 
+![bauhaus]({{ site.baseurl }}/assets/img/bauhaus.png)
+_Examples of Bauhaus interior design products ()_
 
+Suddenly, I am asking myself questions: do I want to go back to my childhood, if so, why? Or do I just want to avoid adulthood? This little place has exposed an unconscious feeling that had been brewing for months, maybe even years, inside me. As subjective as it may be, that moment was what art is meant to be for me. 
 
-Suddenly, I am asking myself questions: do I want to go back to my childhood, if so, why? Or do I just want to avoid adulthood? This little place has exposed an unconscious feeling that had been brewing for months, maybe even years, inside me. As subjective as it may be, that moment was what art is meant to be for me. <hr>
+<br>
+
+The _Berlinische Galerie Museum of Modern art_ was celebrating 100 years of Bauhaus and had a unique   
+
+![bauhaus]({{ site.baseurl }}/assets/img/bauhaus_architecture.png)
+
+<hr>
 
 Just saw a man moving incoherently near a garbage can for glass bottles only (common in Berlin). He was tripping and sliding "grappling with half a cigarette, not managin'", as Kate Tempest would say. It was the early dawn of a Saturday and the sun had not yet rose to shame the happenings of the previous night. Yet, this man was lost in time and space. Hunched over the garbage can he swung a bottle upside down facing his throat until the recipient was devoid of its last drop. He threw that bottle outside the bin into the darkness which shattered my early morning privileged reality. That man was getting drunk of the garbage, of other people's drink leftovers, putting his filthy hands on the filthy garbage bin, wavering between the liquids, cockroaches, used needles and moulded food. That man is going to die. Soon. But the garbage bin is going to stay the same, serving its purpose of recipient of garbage disposal. Do we dispose of humans, in our society, the same way we dispose of garbage? Laboured for 40 years, "used", garbage. Went into jail in his twenties, "broken", garbage. Has schizophrenia, "malfunction", garbage. In the 21st century people are the capital, physical possessions are just reflections.
 This made me think about a similar experience I had in Dublin. It was the end of an evening where the clouds turned everything grey. I was passing by a tight alley, about to go through a crosswalk when I say a chocolate bar on the ground next to one of those grey electricity boxes that control traffic lights, now with and absent body. "Weird", I thought, the abandoned objects on the ground. By my left comes the owner, fidgeting with small sugar packets on his hands, barely managing to hold them. It was for the coffee. He sat down slowly and skeletally, as if his joints screamed for rest. The last scream of life, I mean. He was a hobbo, as we cold-heartedly call them. He finnaly slumped his back against the metal box and glanced at the coffee, grabbing the sugar packets. He trembled. During the entire process of opening the most fragile paper of the packets, he trembled; all his fingertips, palms, wrists and arms trembled. While floating in the direness of life, he trembled. While looking at me with an extinguished gaze of exasperation, survival, of profound sadness, isolation and segregation, in his eyes, he trembled. And I, abandoning him in this ephemeral interaction, trembled. Throughout my spine, face and tears. Poverty - the kind of poverty of the soul, of the willingness to live - this kind makes anyone tremble, from the rich to the poor. We learn to ignore this instinct of compassion, of frustration, of personal guilt whenever we stand and do nothing to help people as human as ourselves. Throught our inclusion and growth in society, we learn to cope with really and to distance ourselves from it. In essence, we learn how _not_ to be human.
