@@ -17,7 +17,9 @@ _Bergama Stereo (Left) and Pergamon altar (Right) in Berlin_
 While exploring the space in three dimensions, one can note how, in the back of the altar, the sounds follow a slower rhythm, being composed of less sources (speakers) and therefore being less complex. As one approaches the center, multiple sources appear only to seamlessly disappear after one false step to the side or upwards the stairs. Acute and grave sounds combine at different rhythms yielding one melody that projects the subject into their own imagination of what an hypothetical mythical war could be. It was curious how approaching the Bergama Stereo from different paths yielded different sound experiences: starting far away and facing the altar while walking towards it resulted in a beat slowly growing in rhythm and intensity, with a rewarding climax in the stairs; while approaching from the sides startled the listener due to the sharp contrast in melodies. 
 
 <br>
+
 ---
+
 <br>
 
 Victorian greenhouse, with it's windows fogged on the inside, fumes with an unbearable heat. I must be sitting in the only place without a drop of water. This warmth and comfort contrasts with the coldness and anonymity I have been feeling in Berlin. I would hardly live here, everything seems so dark but not inhuman, just ... missing, absent. Why am I here, in this botanical garden in Berlin, in life, in this space-time. Will I also be engraved in a stone of this garden, just as Wittgenstein was in the botanical garden in Dublin?
@@ -40,7 +42,9 @@ With a quick google search I realized just how powerful and vast was Piranesi's 
 >"His great ability [...] is to show us glimpses and allow our minds to imagine the fathomless depths. In this sense, he is the father of swathes of culture that have followed: the optical illusions of Escher, the teeming opium-induced hallucinations of De Quincey, the loathsome non-Euclidean geometry of Lovecraft" [source](https://www.architectural-review.com/essays/reputations/giovanni-battista-piranesi-1720-1778/10031530.article) 
 
 <br>
+
 ---
+
 <br>
 
 Junya Oikama sounds of playing chess, background noise and waves initiate me to the _Old Modern Bauhus_ exhibition at the Pinakothek der Moderne. I wish I could stay here all day, lost in this sound, immersed into our thoughts, now connected.
@@ -54,7 +58,9 @@ Suddenly, I am asking myself questions: do I want to go back to my childhood, if
 
 
 <br>
+
 ---
+
 <br>
 
 Just saw a man moving incoherently near a garbage can for glass bottles only (common in Berlin). He was tripping and sliding "grappling with half a cigarette, not managin'", as Kate Tempest would say. It was the early dawn of a Saturday and the sun had not yet rose to shame the happenings of the previous night. Yet, this man was lost in time and space. Hunched over the garbage can he swung a bottle upside down facing his throat until the recipient was devoid of its last drop. He threw that bottle outside the bin into the darkness which shattered my early morning privileged reality. That man was getting drunk of the garbage, of other people's drink leftovers, putting his filthy hands on the filthy garbage bin, wavering between the liquids, cockroaches, used needles and moulded food. That man is going to die. Soon. But the garbage bin is going to stay the same, serving its purpose of recipient of garbage disposal. Do we dispose of humans, in our society, the same way we dispose of garbage? Laboured for 40 years, "used", garbage. Went into jail in his twenties, "broken", garbage. Has schizophrenia, "malfunction", garbage. In the 21st century people are the capital, physical possessions are just reflections.
