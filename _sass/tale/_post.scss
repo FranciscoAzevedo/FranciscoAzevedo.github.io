@@ -20,6 +20,18 @@
     text-align: center;
   }
 
+  &-category {
+    color: $default-shade;
+    font-family: $sans-serif;
+    letter-spacing: 1px;
+    text-align: center;
+
+    span {
+      font-style: italic;
+    }
+  }
+  
+
   &-line {
     border-top: 0.4rem solid $default-shade;
     display: block;
