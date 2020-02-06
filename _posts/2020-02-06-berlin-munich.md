@@ -41,7 +41,7 @@ With a quick google search I realized just how powerfull and vast was Piranesi's
 Junya Oikama sounds of playing chess, background noise and waves initiate me to the _Old Modern Bauhus_ exhibition at the Pinakothek der Moderne. I wish I could stay here all day, lost in this sound, immersed into our thoughts, now connected.
 Listening to these sounds of toys while looking at the Bauhus interior design made me think on how I wish to have higher countertops at my house. "What about the kids?" - I thought. Wouldn't my hypothetical future kids have problems washing their teeth, for example? I would just put a stool to help them climb, I figured. But the they'll grow up and there would be a certain age where they don't have enough height to reach the sink but with the stool's help they'd be touching the mirrors and making a mess out of everything. And I thought about that tradition where a kid's height is measured against a wall and their measurements registered throughout several years. I got lost on my own childhood for a moment, why didn't I have that tradition, what were my parents doing? **Until I snapped** . Looking again at the exhibition's toys I just realized how these two places, sound in temporal and the toys in space, have projected me into this train of thoughts of my life. I didn't want to remove my headset, I want to keep having these thoughts, to be lost in my childhood with my eyes closed, to confront the memories and how I've grown and what has changed. I even felt I wanted to cry a bit, even though the place was full of people.
 
-![bauhaus]({{ site.baseurl }}/assets/img/bauhaus.png)
+![bauhaus]({{ site.baseurl }}/assets/img/bauhaus.jpg)
 _Examples of Bauhaus interior design products ()_
 
 Suddenly, I am asking myself questions: do I want to go back to my childhood, if so, why? Or do I just want to avoid adulthood? This little place has exposed an unconscious feeling that had been brewing for months, maybe even years, inside me. As subjective as it may be, that moment was what art is meant to be for me. 
@@ -50,7 +50,7 @@ Suddenly, I am asking myself questions: do I want to go back to my childhood, if
 
 The _Berlinische Galerie Museum of Modern art_ was celebrating 100 years of Bauhaus and had a unique   
 
-![bauhaus]({{ site.baseurl }}/assets/img/bauhaus_architecture.png)
+![bauhaus]({{ site.baseurl }}/assets/img/bauhaus_architecture.jpg)
 
 ---
 
