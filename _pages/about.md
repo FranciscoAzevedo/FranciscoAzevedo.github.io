@@ -16,6 +16,6 @@ I have a Bsc and a Msc in Electrical and Computer Eng. from [IST](https://tecnic
 
 However I figured I had other interests and, after acquiring enough knowledge, decided to do my Msc thesis in the field of Neuroimaging at [Laseeb](https://www.laseeb.org/). A subset of my thesis was published as an [abstract]({{ site.url }}/assets/abstract.pdf) for ISMRM 2020.
 
-I really enjoy reading short stories. I wrote (in) and was part of the board leading my Uni's student journal [Diferencial](https://diferencial.tecnico.ulisboa.pt/) in these editions [1](https://diferencial.tecnico.ulisboa.pt/edicoes/2016-17/) [2](https://diferencial.tecnico.ulisboa.pt/edicoes/2017-18/).
+I really enjoy reading short stories. I wrote (in) and was part of the board leading my Uni's student journal [Diferencial](https://diferencial.tecnico.ulisboa.pt/) in these editions [1](https://diferencial.tecnico.ulisboa.pt/edicoes/2016-17/) , [2](https://diferencial.tecnico.ulisboa.pt/edicoes/2017-18/).
 
 
