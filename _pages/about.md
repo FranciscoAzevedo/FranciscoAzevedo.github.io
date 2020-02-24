@@ -7,7 +7,7 @@ permalink: /about/
 <img src="{{ site.baseurl }}/assets/img/projeto.png" alt="projeto" width="300" height="300" />
 <br>
 
-This site is mostly a deposit of my **personal** experiences but it also serves as a **research** profile. I write both in english and portuguese depending on the topic.
+This site is a deposit of **personal** experiences but it also serves as a **research** profile. I write both in english and portuguese depending on the topic.
 
 <br>
 
