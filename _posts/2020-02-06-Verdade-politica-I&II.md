@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notas sobre 'Verdade e Política' de Hannah Arendt, Parte I & II"
+title:  "Notas on "Truth and Politics" by Hannah Arendt, Part I&II
 author: "Francisco Moreira de Azevedo"
 category: "Personal"
 ---
