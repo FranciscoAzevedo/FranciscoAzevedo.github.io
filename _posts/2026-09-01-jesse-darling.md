@@ -10,25 +10,18 @@ Luis screamed from afar
   here we were
 
   playing handball
-
     on stilts
 
-
-    On the rooftop we observed
+  On the rooftop we observed
 
 He dodged an ice-break question - hows life doing                 
+we were watching      we were watching
 
-  we were watching      we were watching
-
-  \                                    /
-
-    \                                /
-
-      \                            /
-
-        \                        /
-
-          \                   / : professional rugby-like physique humans ran synchronously
+  \                                /
+   \                              /
+    \                            /
+     \                          /
+      \                        / : professional rugby-like physique humans ran synchronously
 
   with horses and other animals
   
@@ -55,6 +48,9 @@ i wondered
 who will stay on top
 
 in this game
+
+
+--------------------------------------------------------------------------------
 
 
 *Acknowledgment*: This work was an exercise playing with the form of a text, part of the Saalzburg 2026 Summer Course "Art Writing: Developed and Distilled Upon the Page", led By Louisa Elderton - who provided valuable input on this text.
