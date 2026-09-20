@@ -16,7 +16,7 @@ René Tavares’ latest solo exhibition at Kunsthalle Lissabon is located in a b
 
   <!-- Second Image & Caption -->
   <figure style="margin: 0; max-width: 350px;">
-    <img src="{{ site.baseurl }}/assets/img/pya_mu.png" alt="2" style="width: 100%; height: auto;">
+    <img src="{{ site.baseurl }}/assets/img/image(1).png" alt="2" style="width: 100%; height: auto;">
     <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>The next future</em>, 2025. Wood and Fabric. Photo by Bruno Lopes </figcaption>
   </figure>
 
