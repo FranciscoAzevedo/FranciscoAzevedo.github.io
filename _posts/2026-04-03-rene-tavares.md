@@ -5,11 +5,24 @@ title:  " 'Luso-Português' - whose desire afterall?"
 
 René Tavares’ latest solo exhibition at Kunsthalle Lissabon is located in a basement. One needs to go down a flight of stairs to feel the stone cold granite handrails marking the transition from a comfortable upstairs space to a glaringly white fresh room. We’re initially drawn to a painting portraying a family, however in our periphery to the right looms a figure of a woman in a throne. Our intrusion into another’s space is made aware by a towering gaze delineating a line we just crossed.  
 
-![1]({{ site.baseurl }}/assets/img/image.png){: width="250" }
-_My place of reflection, 2025. Natural pigment, oil, stencil, charcoal. Photo by Bruno Lopes_
+<br> 
+<div style="display: flex; gap: 15px; justify-content: center; align-items: flex-start; width: 90%; text-align: center;">
+  
+  <!-- First Image & Caption -->
+  <figure style="margin: 0; max-width: 350px;">
+    <img src="{{ site.baseurl }}/assets/img/image.png" alt="1" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>My place of reflection</em>, 2025. Natural pigment, oil, stencil, charcoal. Photo by Bruno Lopes. </figcaption>
+  </figure>
 
-![2]({{ site.baseurl }}/assets/img/image(1).png){: width="250" }
-_The next future, 2025. Wood and Fabric. Photo by Bruno Lopes. Note the armillary sphere which is also present at the center of the national flag of Portugal_
+  <!-- Second Image & Caption -->
+  <figure style="margin: 0; max-width: 350px;">
+    <img src="{{ site.baseurl }}/assets/img/pya_mu.png" alt="2" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>The next future</em>, 2025. Wood and Fabric. Photo by Bruno Lopes </figcaption>
+  </figure>
+
+</div>
+<br> 
+
 
 “Luso-Português” opens a discourse on colonialism through its title. Since *Luso* is the root word used to denominate a person of Portuguese nationality, the title’s redundancy points to the ways it is generally used in conjunction with other nationalities (e.g. luso-angolan) in order to separate groups based on country of ancestry. The hyphenated identity belongs to a group of adjectives which - despite their initial negative sense - end up being appropriated internally by members of the segregated group in an empowering way, much like when gays call themselves gays but will side-eye outsiders if they do it. In essence it points to ambivalence in its usage dependent on the speaker: referring both to a colonial past and to the possibility of controlling its meaning. 
 
@@ -45,7 +58,7 @@ The mirror is also present in previous works by René Tavares, namely in <em> Py
   <!-- Second Image & Caption -->
   <figure style="margin: 0; max-width: 350px;">
     <img src="{{ site.baseurl }}/assets/img/pya_mu.png" alt="2" style="width: 100%; height: auto;">
-    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>Pya Mu - Look at me</em>, 2022. Pigment, charcoal, acrylic on wood glued to plywood. Photo from This Is Not a White Cube/</figcaption>
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>Pya Mu - Look at me</em>, 2022. Pigment, charcoal, acrylic on wood glued to plywood. Photo from This Is Not a White Cube </figcaption>
   </figure>
 
 </div>
