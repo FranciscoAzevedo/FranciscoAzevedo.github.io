@@ -45,7 +45,7 @@ The mirror is also present in previous works by René Tavares, namely in <em> Py
   <!-- Second Image & Caption -->
   <figure style="margin: 0; max-width: 350px;">
     <img src="{{ site.baseurl }}/assets/img/pya_mu.png" alt="2" style="width: 100%; height: auto;">
-    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>Pya Mu - Look at me</em>, 2022. Pigment, charcoal, acrylic on wood glued to plywood. Photo from [thisisnotawhitecube]https://thisisnotawhitecube.com/exhibitions/42/works/artworks-2518-rene-tavares-pia-mu-look-at-me-2022/</figcaption>
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>Pya Mu - Look at me</em>, 2022. Pigment, charcoal, acrylic on wood glued to plywood. Photo from This Is Not a White Cube/</figcaption>
   </figure>
 
 </div>
