@@ -31,10 +31,27 @@ _O espelho da minha história, 2025. (Translation: "My life's reflections") Natu
 
 The most curious detail in this tryptic is the emptiness in the mirror. In this sense it relates in opposition to Velázquez’s Las Meninas. By including himself in the frame, Velázquez portrays the painter conscious of its action. The same applies to the painter conscious of the viewer via the mirror in the center, to the left of the stairs. This artifice induces in us a certain vertigo due to its layers: the mirror reflect the figures that Velázquez is likely painting in the big canvas within Las Meninas; however, given that the front of the canvas is conceiled, its as if Velázques is painting an abstract idea of the viewer. By having some subjects interact with each other, whilst Velázquez himself and the figures inside the mirror look straight out of the painting towards the viewer, we are left conscious of our presence in space.
 
-![4]({{ site.baseurl }}/assets/img/Las_Meninas,_by_Diego_Velázquez,_from_Prado_in_Google_Earth.jpg){: width="450" }
-_Las Meninas by Diego Velázquez, 1656. Oil on canvas._
+The mirror is also present in previous works by René Tavares, namely in <em> Pya Mu - Look at me </em>, a saying in south São Tomé and Príncipe that signifies a challenge focused on the gaze. In this piece portraits of people from his community are shown on a piece of wood generally used in the daily lives of fisherman but functioning akin to a mirror, pointing to a daily usage amongst Portuguese or European bourgeoisie.
 
-By leaving the reflection of the mirror empty René Tavares is not committing to any portrayal of the viewer - whichever they may be. It refrains - even if non-intentionally - from depositing a judgement into the viewer, particularly one of guilt. This surprising absence contrasts with a major trend in art which focuses on casting moral evaluations by strongly opposing inequalities, oppression and caricaturing social crisis - a trend with plenty precursors. Here the role of artist then becomes one of **arbitrator** that collapses social phenomena into moral decisions instead of one of inquiring and exploring different understandings of reality besides the ones already in place.
+<br> 
+<div style="display: flex; gap: 15px; justify-content: center; align-items: flex-start; width: 90%; text-align: center;">
+  
+  <!-- First Image & Caption -->
+  <figure style="margin: 0; max-width: 350px;">
+    <img src="{{ site.baseurl }}/assets/img/Las_Meninas,_by_Diego_Velázquez,_from_Prado_in_Google_Earth.jpg" alt="1" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>Las Meninas</em> by Diego Velázquez, 1656. Oil on canvas. </figcaption>
+  </figure>
+
+  <!-- Second Image & Caption -->
+  <figure style="margin: 0; max-width: 350px;">
+    <img src="{{ site.baseurl }}/assets/img/pya_mu.png" alt="2" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px; color: #555;"><em>Pya Mu - Look at me</em>, 2022. Pigment, charcoal, acrylic on wood glued to plywood. Photo from [thisisnotawhitecube]https://thisisnotawhitecube.com/exhibitions/42/works/artworks-2518-rene-tavares-pia-mu-look-at-me-2022/</figcaption>
+  </figure>
+
+</div>
+<br> 
+
+In contrast <em> Pya Mu </em>, by leaving the reflection of the mirror empty in <em> O espelho da minha história/My life's reflections </em> René Tavares is not committing to any portrayal of the viewer - whichever they may be. It refrains - even if non-intentionally - from depositing a judgement into the viewer, particularly one of guilt. This surprising absence contrasts with a major trend in art which focuses on casting moral evaluations by strongly opposing inequalities, oppression and caricaturing social crisis - a trend with plenty precursors. Here the role of artist then becomes one of **arbitrator** that collapses social phenomena into moral decisions instead of one of inquiring and exploring different understandings of reality besides the ones already in place.
 
 One elucidating interpretation offered by [KIRAC](https://www.keepingitrealartcritics.com/wordpress/) to justify this trend states that artists are forced to adopt this posture due to a pressure to feel impactful in a technical world where funding for arts is increasingly harder to justify. The artist is evaluated according to the **utility** of their art, manifested most commonly when portraying minorities, highlighting under representation of the global south, denouncing wars amongst other gestures. It is between the artist’s desire to communicate their narrative with a unique language and the rewards the art environment gives back, that lives the pernicious effect of capital: it becomes impossible to discern whether a piece of art is catering to a global trend fostering speculative art economies which hijack social causes to their benefit, or whether it stems from a genuine desire to portray an artist’s history. 
 
@@ -45,7 +62,7 @@ _“Pessoa” por de trás do véu, 2025. (Translation: “A ‘person’ behind
 
 A judgement is cast on the structures that perpetuate oppression by arbitrating who acquires citizenship. This judgement naturally extends into each individual viewer, thereby historically dividing them into the oppressor and oppressed, depending on the ethnicity of their ancestors. The segregation inherent in this gesture is identical to the one present in the word “Luso-Português”, manifesting how mechanisms of *othering* necessary for the genesis of any identity are inevitably similar and practiced by any group - even if to largely different effects due to differences in status and privilege. 
 
-Again the intersectional complexity present in anyone’s identity is collapsed into a unidimensional axis of existence, the cultural flattening yielding sterile ground for analysis. The structural critique subjacent in these portraits hits a wall in its capacity to mobilize political change by merely repeating a discourse ongoing since mid 20th century without encompassing the effect (or lack thereof) of changes that have occurred since then.
+Again the intersectional complexity present in anyone’s identity is collapsed into a unidimensional axis of existence, the flattening yielding sterile ground for analysis. The structural critique subjacent in these portraits hits a wall in its capacity to mobilize political change by repeating a discourse ongoing since late 20th century without encompassing the effect (or lack thereof) of changes that have occurred since then.
 
 In the context of “Luso-Português” one is impelled to ask how does an artist tap into his imaginarium without having it tainted by financial incentives? Particularly, how does an artist feel about working on a topic that is both personal and attractive as token to gallerists and collectors alike? How does an artist navigate between having a nuanced critique of his condition in the world and a unidimensional one tailored for the incentives of the art world? How does capital undermine the resolution of our desires? Fruitful questions posed by an exhibition that opened many paths to a discourse whilst leaving others unattended. 
 
