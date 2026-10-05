@@ -1,8 +1,14 @@
+---
+layout: post
+title:  "Entre o ser e o olhar do outro: visibilidade e o performativo em Enclave e Um saco de ossos de Maria Lis"
+---
+
 Ler artigos sobre os livros de Maria Lis em jornais como o [Público](https://www.publico.pt/2026/01/02/culturaipsilon/critica/saco-ossos-maria-lis-procura-vida-2159356) ou [Expresso](https://expresso.pt/revista/culturas/livros/2025-12-23-livros-ossos-paus-e-pedras-de-maria-lis-4b70b0f1) deixa um trago a cartão molhado. Para além do desinteresse pessoal e financeiro em caracterizar devidamente este trabalho, nota-se também uma dificuldade em endereçar directamente o seu núcleo. O difícil num livro de Maria Lis é que nos enche a boca de imagens que demoram a digerir, a mastigar para começar, a salivar até - de forma que o próprio movimento de querer falar com a boca cheia indigna o grotesco do gesto. 
 
 *Um Saco de ossos*, publicado no final de 2025 continua num diálogo com *Enclave* de Maria Lis, que surgira em 2024. Se *Enclave* sugere a imaginação esquizofrénica das crianças como solução à inércia capitalista, *Um saco de ossos* fala quem está farto de tentar encontrar saídas. *Um saco* é um recuo face a *Enclave:* repensar que porra fazer agora se nada disto que pensava resultar funcionou. Maria Lis encontrou a sua resposta na Georgia O’Keefe - na sua disciplina, insistência, paciência “até conseguir encontrar a tal casa” - como quem diz um mundo no qual conseguir viver: “este livro faz-se […] de anotações e promessas ao meu inconsciente, incentivo auto-dirigido para procurar o meu propósitio e um método”. 
 
 Desta forma, o contraste neste diálogo resulta de uma insistência em inteirar-se com as inevitáveis vagas de idealização e desilusão, perguntando-se como sentir os objectos no quarto escuro do futuro.
+<br> 
 
 <h2> Enclave </h2> 
 
@@ -15,6 +21,7 @@ Em contraste, Maria Lis interpreta o trabalho de Judite Canhas Fernades como per
 Resta saber como é que um artista consegue simultaneamente subjugar-se a um sistema que ele próprio crítica. Retirando a hipótese naive do artista não estar consciente da contradição, permanece um mecanismo como suspeito, no qual conhecimento em si é fetichizado. Face à dificuldade em aceitar as mudanças que a crise da potencial extinção contemporânea associada ao capitalismo nos exigem - sentido-as como um roubo de potência ou castração da nossa capacidade de viver no domínio da normalidade - surge o conhecimento (ou consciência) desta conjuntura como forma contraintuitiva de nos desvincularmos ou repudiarmos² a realidade. Aqui fetichização refere-se à sua acepção clínica invés da metafórica geralmente utilizada na crítica capitalista. Não é que o conhecimento ganhe um estatuto sobrenatural ou mágico que estravaze o seu valor intrínseco (como no caso do dinheiro), mas que de algum modo “a consciência de uma realidade traumática (o ‘Eu bem sei’) estranhamente se desdobra ou dividide e *ela própria* adopta o papel de objecto que nos protege contra esta realidade traumática. Desta forma o ‘conhecimento’ adquire um propósito novo e distinto; não sendo simplesmente algo do qual nos desvinculamos mas - paradoxalmente - algo que nos permite desvincular (da substância deste conhecimento)”³
 
 Desta forma se percebe como para além da crítica explícita ao capital presente em *Enclave*, Maria Lis captura uma dimensão perniciosa no seu diálogo com Judite Canhas Fernades, guiando-nos sobre a nossa exímia capacidade de nos enganarmos a nós próprios: “fomos astutos na reinvenção do trabalho escravo / assim sucessivamente / de maneiras mais finas e invisíveis.” Sem em *Enclave* se observa um trabalho minucioso de denúncia e estudo do impacto do capitalismo até ao foro do indivíduo - talvez até transbordando para uma projecção do nojo de si própria para fora ao reconhecer o conluio de cada um de nós nesse sistema - em *Um saco de ossos* vê-se um recuo para dentro para desenhar um rumo e delinear a fonte de um novo desejo. 
+<br> 
 
 <h2> Um saco de ossos </h2> 
 
@@ -25,6 +32,7 @@ Contrastando com *Enclave,* é-nos apresentado um livro cujo conteúdo, na maior
 Apesar de livros muito diferentes, é ainda assim Maria Lis. Se por um lado existe uma subtração sua do mundo social paroquial “adormeço contra as conversas pequenas / quando acordo há mais comida na mesa”, por vezes criticando-o com um tom sardónico “tenho procurado maneiras / de poupar os dedos às cordas / deixo aos metereologistas o ofício / de descreverem o meu ano” que se cinge a *Um saco;* existe também em continuidade a necessidade de desconstruir ideias externamente impostas e desenhar novas concepções característica de *Enclave* “vi-te às avessas com o mundo / onde as mulheres ajeitam as unhas / secam demoradamente os cachos […] é preciso deixar que morra a arquetípica mãe / que o monte dos seus tecidos se anime de outra força / haveremos de entender a maquinaria que nos seja útil”. Mantém-se também o estilo pouco ornamentado (obrigado entidade benigna superior), as enumerações sem vírgulas que construem um balanço e ímpeto ao longo de versos, tal como a capacidade quase irritante, dada a naturalidade, de conseguir evocar uma sensação com meia dúzia de palavras, como quando fala sobre *memória* aquando a descrição de um momento de ausência ou tédio “no tempo do estranho vazio humano descarado / **desdobra-se na minha cabeça** a forma / de um longo corpo de bailado / o som dos joelhos tortos em plié tendu”. 
 
 A partir da segunda metade de *Um saco,* ao aproximar-se do fim, intensificam-se passagens sobre Alfred Stieglitz. Vemos a voz de Maria Lis e O’Keefe convergir mais e mais numa grande desilusão. Apesar do texto se referir a uma desilusão romântica - reflectindo a traição real que Stieglitz cometeu - seguindo-se do retrato da sua eventual morte, a imagem que se retém refere-se a uma desilusão com a realidade em geral “porque a intimidade é um exercício que magoa” tal com uma dificuldade em vincular-se com o mundo: “previno pela distância / os altos e baixos emocionais / não me ligo a ninguém / melhor assim / para o senso de quem sou”. E mesmo assim, no fim, de novo, as crianças: “sabem girar piões, sacudir-se. estes pequenos estafermos tiram-me amiúde os frutos todos de uma só árvore, abolindo, assim, decididamente, a propriedade privada”. 
+<br> 
 
 <h2> Redesenhar desejos </h2> 
 
@@ -35,6 +43,7 @@ A partir da segunda metade de *Um saco,* ao aproximar-se do fim, intensificam-se
 Não é este livro um convite ao fim da projecção, ao fim dos inúmeros mecanismos de compensação, de elusão da realidade através de ferramentas cognitivas que o explicam e o entendem, para de novo nos vulnerabilizarmos aos nossos reais desejos? E ter a coragem de os expôr externamente, ter disciplina para o fazer de forma precisa (”que enorme esforço físico / é preciso / para registar o espírito”) - como que num acto de auto-responsabilização e ímpeto para agência. Não é esta exposição - falo do duro de dizer aquilo que se sonha e agi-lo em concordância no mundo - a tarefa de um poeta que se digne de seu nome?
 
  “morrer um dia mas não agora / calejar muito as mãos nas ideias que falham, quase sempre”.
+<br> 
 
 <h2> Bibliografia </h2> 
 
