@@ -5,19 +5,19 @@ title:  "Working with form: Jesse Darling, March of Valedictorians "
 
 Luis screamed from afar
 
-  far from within the warehouse
+>far from within the warehouse
 
-  here we were
+>here we were
 
-  playing handball
-    on stilts
+>playing handball
+&emsp&emspon stilts
 
-  On the rooftop we observed
+&emspOn the rooftop we observed
 
 He dodged an ice-break question - hows life doing                 
 we were watching      we were watching
 
-  \                                /
+&emsp\                                /
    \                              /
     \                            /
      \                          /
